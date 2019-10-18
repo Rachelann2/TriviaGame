@@ -1,0 +1,29 @@
+.container {
+    width: 960px;
+    height: 950px;
+    padding: 20px;
+    background-color: rgb(255, 255, 161);
+    margin: 0 auto;
+    text-align: center;
+    color: rgb(99, 94, 89);
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+.question1, .question2, .question3, .question4, .question5, .question6 {
+    padding: 30px;
+    width: 660px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    margin: 0 auto;
+}
+
+button {
+    padding: 10px;
+    scroll-behavior: smooth;
+}
+
+#Submit {
+    margin-top: 40px;
+    padding: 20px;
+}
+
